@@ -17,4 +17,4 @@ const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(parent)
 
 
-// start from 2nd Video
+// start from 2nd Video at 42:42

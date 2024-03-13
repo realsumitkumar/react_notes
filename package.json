@@ -1,0 +1,20 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realsumitkumar/react_notes.git"
+  },
+  "keywords": [],
+  "author": "Akshay Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realsumitkumar/react_notes/issues"
+  },
+  "homepage": "https://github.com/realsumitkumar/react_notes#readme"
+}

@@ -1,1 +1,1 @@
-#This is the notes of the Namaste React course!
+#These are the notes of the Namaste React course!
